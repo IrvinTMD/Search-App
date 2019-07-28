@@ -56,5 +56,5 @@ app.post('/search', async (req, res) => {
 // });
 
 app.listen(port, () => {
-    console.log('SephoraTask Server is running on', port)
+    console.log('Search Server is running on', port)
 });
